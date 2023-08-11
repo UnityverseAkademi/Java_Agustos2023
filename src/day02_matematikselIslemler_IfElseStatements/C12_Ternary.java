@@ -36,5 +36,7 @@ public class C12_Ternary {
         }
 
         // bu soruyu ternary ile yapamayiz
+
+
     }
 }
